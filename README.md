@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a company.
+- 🌱 I’m currently learning nestjs/angular/ts/mongo ....
+- 🤔 I’m looking for help with how to work with a old old old ember project.
+
+[![llccing's GitHub stats](https://github-readme-stats.vercel.app/api?username=llccing)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llccing)](https://github.com/anuraghazra/github-readme-stats)
