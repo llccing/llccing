@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a company.
-- 🌱 I’m currently learning nestjs/angular/ts/mongo ....
-- 🤔 I’m looking for help with how to work with a old old old ember project.
+- 🔭 I’m currently working on Rocket Software.
+- 🌱 I’m currently learning angular/ts/jhipster
+- 🤔 I’m enjoy current work.
 
 [![llccing's GitHub stats](https://github-readme-stats.vercel.app/api?username=llccing)](https://github.com/anuraghazra/github-readme-stats)
 
