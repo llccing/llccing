@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Rocket Software.
-- 🌱 I’m currently learning angular/ts/jhipster
+- 🔭 I’m currently working on Accenture.
+- 🌱 I’m currently learning angular/ts
 - 🤔 I’m enjoy current work.
 
 [![llccing's GitHub stats](https://github-readme-stats.vercel.app/api?username=llccing)](https://github.com/anuraghazra/github-readme-stats)
